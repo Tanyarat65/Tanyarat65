@@ -32,5 +32,5 @@
 ## Projects
 
 - [Easy Cafe](http://)
-- [Web Blog Design](http://13.215.191.2/)
+- [Web Blog Design](https://tanyarat65.github.io/webBlog.github.io/)
 
