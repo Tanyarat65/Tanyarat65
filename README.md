@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="850px" height="400px" src="img/Tanyarat (1).png">
+    <img width="850px" height="350px" src="img/Tanyarat (1).png">
 </div>
 
 <h1 align="center">Hi 👋, I'm Bam.</h1>
