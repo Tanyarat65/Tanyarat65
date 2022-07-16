@@ -1,6 +1,11 @@
 import { Tanyarat Nattip } from "TanyaratNattip"
 
-const React = (skills)=>{
-    console.log("React Hooks");
-    console.log("React Redux");
-}
+    export const React = (skills)=>{
+        console.log("HTML");
+        console.log("CSS");
+        console.log("Bootstrap");
+        console.log("Tailwind");
+        console.log("React");
+        console.log("Nodejs");
+        console.log("SQL");
+    }
