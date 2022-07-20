@@ -31,6 +31,6 @@
 
 ## Projects
 
-- [Easy Cafe](http://)
+- [Easy Cafe](https://youtu.be/iPOaNfrz42c)
 - [Web Blog Design](https://tanyarat65.github.io/webBlog.github.io/)
 
